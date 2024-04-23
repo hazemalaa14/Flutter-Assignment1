@@ -135,7 +135,7 @@ class Buttons extends StatelessWidget {
           ElevatedButton(
             onPressed: () {
             },
-            style: ElevatedButton.styleFrom(backgroundColor: Colors.white), // Add this line
+            style: ElevatedButton.styleFrom(backgroundColor: Colors.white),
             child: Text('DELETE ACCOUNT'),
           ),
         ],
